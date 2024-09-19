@@ -1,0 +1,31 @@
+/* Element Selector */
+* {
+  color: green;
+}
+
+h1 {
+}
+
+.heading {
+  color: #b55f1f; /*Declaration*/
+  font-size: 14px;
+  /* font-family: "Protest Guerrilla", sans-serif; */
+  font-weight: 900; /* 100-900 */
+  font-style: normal;
+}
+
+#para1 {
+  color: bisque;
+}
+
+.classPara {
+  color: #b55f1f;
+}
+
+.samplePara {
+  font-size: 1 rem;
+  text-decoration: underline;
+}
+.spanEx {
+  text-decoration: none;
+}
